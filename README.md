@@ -1,10 +1,10 @@
 ![Banner](https://github.com/edleafvirtual/Project-3-IMDb-Successful-movie/blob/main/MovieBanner.png)
 
 # WORK IN PROGRESS
-## A/B Testing ([Part E](https://github.com/edleafvirtual/Project-3-IMDb-Successful-movie/blob/main/Part%20E%20-%20A-B%20Testing.ipynb)) still in progress.
+A/B Testing ([Part E](https://github.com/edleafvirtual/Project-3-IMDb-Successful-movie/blob/main/Part%20E%20-%20A-B%20Testing.ipynb)) still in progress.
 
 ## Purpose
-Ev
+Xxxxxx
 
 
 <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" align="right" />
