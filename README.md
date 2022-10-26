@@ -1,4 +1,4 @@
-![Banner](https://github.com/edleafvirtual/Project-3-IMDb-Successful-movie/blob/main/MovieBanner.png)
+![Banner](https://github.com/edleafvirtual/Project-3-IMDb-Successful-movie/blob/main/Images/MovieBanner.png)
 
 # WORK IN PROGRESS
 A/B Testing ([Part E](https://github.com/edleafvirtual/Project-3-IMDb-Successful-movie/blob/main/Part%20E%20-%20A-B%20Testing.ipynb)) still in progress.
